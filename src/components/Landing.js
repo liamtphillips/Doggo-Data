@@ -35,7 +35,7 @@ const Landing = () => {
                 <h2 className="text-3xl font-bold mb-4 text-black display-5 py-4">The world's <span className="text-orange-600">number one</span> dog research website.</h2>
                 <p className="text-gray-500 mb-12 pb-4">
                   Search for any dog breed for more information about that specific type of dog, or simply scroll and search all dogs.
-                  Search for any dog breed for more information about that specific type of dog, or simply scroll and search all dogs.
+                  
                 </p>
 
                 <div className="grid lg:gap-x-12 md:grid-cols-3">
